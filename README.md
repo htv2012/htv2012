@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-I am Hai Vu, a software development engineer in test (SDET) who lives in Washington State, USA.
+I am Hai Vu (he/him), a software development engineer in test (SDET) who lives in Washington State, USA.
 
 
 Here are a few stats
 
 ![Stat](https://github-readme-stats.vercel.app/api?username=htv2012)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htv2012)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kovidgoyal&theme=dracula)
 
 <!--
